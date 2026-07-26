@@ -61,7 +61,7 @@ https://aqz.kesug.com/ASAC/
 
 ## 🖼️ Interface Preview
 
-![ASAC Interface](Screenshot 2026-07-26 061126.png)
+![ASAC Interface](Screenshot%202026-07-26%20061126.png)
 
 ---
 
